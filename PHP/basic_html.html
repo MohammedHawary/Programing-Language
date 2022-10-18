@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML</title>
+</head>
+<body>
+    <h1>Login Page</h1>
+    <form action="" method="post">                                           <!--    create Form to write tage input                         -->
+                                                                             <!--    action="url or path of file that you want it recived
+                                                                                     this dat"  method="POST or GET" POST hidden your input
+                                                                                     info from shown in url  GET revese POST                 -->
+                                                                             <!-- *) note The input dosn't work without form                 -->
+        <dev>                                   
+            <label>User Name </label>                                        <!--    Create Lable To make User know what he will input       --> 
+            <input type="text" required name="userName">                     <!--    get input from type text                                -->
+        </dev>                                  
+        <br>                                                                 <!--                        New Line                            -->
+        <dev>                                   
+            <label>Password  </label>                                        <!--    Create Lable To make User know what he will input       --> 
+            <input type="password" required name="password"
+                                minlength="8" maxlength="15">                <!--get input from type password user can't show your enteres   -->
+        </dev>                          
+        <br>                                                                 <!--                        New Line                            -->
+        <dev>                               
+            <label>Subject  </label>                                         <!--    Create Lable To make User know what he will input       --> 
+            <input type="text" name="Subject">                               <!--get input from type password user can't show your enteres   -->
+        </dev>                               
+        <br>                            
+        <input type="submit" value="Submit" >                                <!--                      submit Buttom                         -->
+        <select name="lang">                                                 <!-- var name "lang" and select from items                      -->             
+            <option value="en">English</option>                              <!-- first  item with value en                                  -->  
+            <option value="ar">Arbic</option>                                <!-- second item with value ar                                  -->      
+            <option value="sp">Spanish</option>                              <!-- third  item with value sp                                  -->  
+        </select>
+    </form>
+</body>
+</html>
