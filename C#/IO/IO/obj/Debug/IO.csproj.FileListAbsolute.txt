@@ -1,0 +1,8 @@
+F:\Programing-Language\C#\IO\IO\bin\Debug\IO.exe.config
+F:\Programing-Language\C#\IO\IO\bin\Debug\IO.exe
+F:\Programing-Language\C#\IO\IO\bin\Debug\IO.pdb
+F:\Programing-Language\C#\IO\IO\obj\Debug\IO.csproj.AssemblyReference.cache
+F:\Programing-Language\C#\IO\IO\obj\Debug\IO.csproj.SuggestedBindingRedirects.cache
+F:\Programing-Language\C#\IO\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+F:\Programing-Language\C#\IO\IO\obj\Debug\IO.exe
+F:\Programing-Language\C#\IO\IO\obj\Debug\IO.pdb

@@ -5,7 +5,6 @@
 // if you student have 10$ discound
 // if user orphan hase 15$ discound 
 
-        // to check github
 $course_Price = 100
 $is_Student   = FALSE
 $is_Orphan    = FALSE
@@ -24,6 +23,7 @@ $country      = "EGYPT"
 <body>
     <form action="" method="POST">
         <label></label>
+
     </form>
     
 </body>

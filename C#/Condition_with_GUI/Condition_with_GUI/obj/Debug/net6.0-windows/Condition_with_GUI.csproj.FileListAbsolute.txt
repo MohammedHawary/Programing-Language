@@ -1,0 +1,17 @@
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\bin\Debug\net6.0-windows\Condition_with_GUI.exe
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\bin\Debug\net6.0-windows\Condition_with_GUI.deps.json
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\bin\Debug\net6.0-windows\Condition_with_GUI.runtimeconfig.json
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\bin\Debug\net6.0-windows\Condition_with_GUI.dll
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\bin\Debug\net6.0-windows\Condition_with_GUI.pdb
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.csproj.AssemblyReference.cache
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.Form1.resources
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.csproj.GenerateResource.cache
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.AssemblyInfoInputs.cache
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.AssemblyInfo.cs
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.csproj.CoreCompileInputs.cache
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.dll
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\refint\Condition_with_GUI.dll
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.pdb
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\Condition_with_GUI.genruntimeconfig.cache
+F:\Programing-Language\C#\Condition_with_GUI\Condition_with_GUI\obj\Debug\net6.0-windows\ref\Condition_with_GUI.dll

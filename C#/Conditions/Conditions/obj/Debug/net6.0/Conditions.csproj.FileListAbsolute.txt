@@ -1,0 +1,15 @@
+F:\Programing-Language\C#\Conditions\Conditions\bin\Debug\net6.0\Conditions.exe
+F:\Programing-Language\C#\Conditions\Conditions\bin\Debug\net6.0\Conditions.deps.json
+F:\Programing-Language\C#\Conditions\Conditions\bin\Debug\net6.0\Conditions.runtimeconfig.json
+F:\Programing-Language\C#\Conditions\Conditions\bin\Debug\net6.0\Conditions.dll
+F:\Programing-Language\C#\Conditions\Conditions\bin\Debug\net6.0\Conditions.pdb
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.csproj.AssemblyReference.cache
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.AssemblyInfoInputs.cache
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.AssemblyInfo.cs
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.csproj.CoreCompileInputs.cache
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.dll
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\refint\Conditions.dll
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.pdb
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\Conditions.genruntimeconfig.cache
+F:\Programing-Language\C#\Conditions\Conditions\obj\Debug\net6.0\ref\Conditions.dll

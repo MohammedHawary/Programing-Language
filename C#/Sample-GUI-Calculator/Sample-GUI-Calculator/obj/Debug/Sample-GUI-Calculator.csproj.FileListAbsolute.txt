@@ -1,0 +1,11 @@
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\bin\Debug\Sample-GUI-Calculator.exe.config
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\bin\Debug\Sample-GUI-Calculator.exe
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\bin\Debug\Sample-GUI-Calculator.pdb
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.csproj.AssemblyReference.cache
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.csproj.SuggestedBindingRedirects.cache
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample_GUI_Calculator.Form1.resources
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample_GUI_Calculator.Properties.Resources.resources
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.csproj.GenerateResource.cache
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.csproj.CoreCompileInputs.cache
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.exe
+F:\Programing-Language\C#\Sample-GUI-Calculator\Sample-GUI-Calculator\obj\Debug\Sample-GUI-Calculator.pdb
